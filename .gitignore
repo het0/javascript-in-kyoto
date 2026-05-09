@@ -1,0 +1,24 @@
+## IDE
+.idea/
+.vscode/
+
+## Node
+node_modules
+**/node_modules
+
+## AI
+.claude
+
+## Build artifacts
+dist/
+**/dist/
+
+## Env files
+.env
+**/.env
+
+## pnpm
+.pnpm-store/
+
+## OS
+.DS_Store
